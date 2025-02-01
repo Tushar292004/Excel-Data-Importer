@@ -1,7 +1,7 @@
 # Excel Data Importer
 
 ## Overview
-Excel Data Importer is an assignment project for the Full Stack Developer Internship. This project enables seamless importing, validation, and management of Excel (.xlsx) files.
+Excel Data Importer is an assignment project for the Full Stack Developer Internship. This project enables seamless importing, validation, and management of Excel (.xlsx) files. You can use provided test files also for testing or refference.
 
 ## Tech Stack Used
 - **Scripting Language:** TypeScript
