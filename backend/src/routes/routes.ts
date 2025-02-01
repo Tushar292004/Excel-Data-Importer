@@ -64,11 +64,11 @@ router.post("/upload", async (req: Request, res: any) => {
           parsedDate.getMonth() === currentMonth &&
           parsedDate.getFullYear() === currentYear;
 
-        // Checking the values for understanding purpose can be also commentef
-        // console.log(`Validating user: ${Name}`);
-        // console.log(`Name Valid: ${isValidName}`);
-        // console.log(`Amount Valid: ${isValidAmount}`);
-        // console.log(`Date Valid: ${isValidDate}`);
+        // Realtime Progress Showing for each row and content
+        console.log(`Validating user: ${Name}`);
+        console.log(`Name Valid: ${isValidName}`);
+        console.log(`Amount Valid: ${isValidAmount}`);
+        console.log(`Date Valid: ${isValidDate}`);
 
         if (!isValidDate) errors.push("Invalid date format");
         if (isValidDate && !isDateInCurrentMonth) errors.push("Date must be in the current month");
