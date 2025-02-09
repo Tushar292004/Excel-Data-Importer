@@ -1,5 +1,9 @@
 # Excel Data Importer
 
+[![Watch the video](https://img.youtube.com/vi/NZYbL0Gv8FM/maxresdefault.jpg)](https://youtu.be/NZYbL0Gv8FM)
+
+### [Demo and Explanation ](https://youtu.be/NZYbL0Gv8FM)
+
 ## Overview
 Excel Data Importer is an assignment project for the Full Stack Developer Internship. This project enables seamless importing, validation, and management of Excel (.xlsx) files. You can use provided test files also for testing or refference.
 
@@ -83,8 +87,4 @@ Excel Data Importer is an assignment project for the Full Stack Developer Intern
 - Ensure the backend can handle thousands of rows efficiency
   
 ---
-## Youtube URL
- ```sh
-  https://youtu.be/NZYbL0Gv8FM
- ```
 
